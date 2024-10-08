@@ -1,0 +1,4 @@
+I have been using React for almost 2 years now. I first started using it the summer after my first semester. I still remember my first app.
+It was disasterous I didn't understand much about what it would be used for so I basically just wrote my entire html inside the JSX and 
+used 0 of what react offers you, no hooks, no modularity, nothing. However I will still say that it was a great experience and it still
+got me to start using the framework, which i use more or less daily now.

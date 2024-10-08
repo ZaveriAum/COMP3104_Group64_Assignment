@@ -1,0 +1,7 @@
+I started using express a few months after using react, so ive used it for about a year and a half now. 
+At first i really liked express as it felt that it was very... "raw"? There wasn't much to it, 0 boilerplate it felt like node
+with a very simple library that just makes life easier, which is what it truly is.With time however I have slightly started
+disliking just how simple it is. Everything feels like I have to build it from scratch and even when following best practices
+I still feel like it can get too messy. Thats why i prefer other options such as ASP.NET Core or a framework on top of express
+such as Nest.JS. A big bonus of Nest is that it has a cool logo. I still use express here and there however as I like how easy
+it is to deploy
