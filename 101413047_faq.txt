@@ -1,0 +1,8 @@
+**Q1: How do I switch to my branch?**
+A: Use `git checkout STUDENTID-Name`.
+
+**Q2: What happens if there's a merge conflict?**
+A: Pull from the main branch and resolve conflicts locally before merging.
+
+**Q3: How is CI set up?**
+A: We use GitHub Actions. Check `.github/workflows/` for details.
