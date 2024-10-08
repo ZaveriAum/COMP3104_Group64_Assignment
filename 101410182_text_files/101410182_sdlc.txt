@@ -1,0 +1,8 @@
+While for us new developers the thing that we worry about the most is completing our current
+project for the first time, getting that ideal solution, but once that is done we realize that
+the operations side of thing still has a lot more to it. DevOps is a bridge between developers
+and Operations.It improves how the team communicates, thus improving the quality but also the
+speed at how something is delievered. It is called the software development life cycle because
+it is constantly being worked on and improved by everyone, and something else that DevOps helps
+is making sure that this constant development is also not too difficult to be uploaded, and this
+is done through the automation pipleine  
