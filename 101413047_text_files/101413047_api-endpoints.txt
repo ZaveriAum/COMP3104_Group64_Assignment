@@ -1,0 +1,7 @@
+Available API Endpoints:
+1. GET /users – Fetch all users.
+2. POST /users – Create a new user. Parameters: {name, email}.
+3. GET /users/{id} – Fetch a specific user by ID.
+4. PUT /users/{id} – Update user data. Parameters: {name, email}.
+5. DELETE /users/{id} – Remove a user by ID.
+All endpoints return JSON with appropriate HTTP status codes.

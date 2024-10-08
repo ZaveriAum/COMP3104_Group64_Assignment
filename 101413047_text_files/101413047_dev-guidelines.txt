@@ -1,0 +1,7 @@
+Follow these development guidelines for consistency: 
+- Commit messages should be clear and concise.
+- All code must be tested before merging.
+- Maintain semantic versioning (v1.0.0).
+- Branches follow the format STUDENTID-Name.
+- Ensure code reviews are conducted before approving pull requests.
+- Document all functions with comments for clarity.

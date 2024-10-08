@@ -1,0 +1,3 @@
+The aim of the project is to further simplify team collaboration through integrated GitHub branching with continuous integration.
+Key features include version control, automated testing, and real-time collaboration done using GitHub Actions. In the future, this will expand further to support the deployment pipeline with the CI pipeline, which would also involve code quality checks by automated means.
+Productivity for the whole team increases in managing the workflows these can also prepare team members for modern DevOps practices.
