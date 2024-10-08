@@ -1,0 +1,6 @@
+Currently I am working on quite a few projects. The one that I am truly focusing most of my time on is a
+3D web portofolio using React-Three-Fiber, which is basically ThreeJS (A webGL wrapper) combined with React.
+This specific project has taught me way more in the last 2 months than I wouldve expected, and truthfully
+had I known how difficult it would be I likely wouldn't even have started. Now however, I like how it has
+turned out, and it feels like the finish line is right there. I also like how it's a good way to show my
+technical skills, and also show that I am curious not just beyond what I have to do
