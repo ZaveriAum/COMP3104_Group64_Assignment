@@ -1,0 +1,4 @@
+In mym free time i like building a lot of projects.Most of them are web based but lately I have been exploring on
+mobile application and also on integrating electronics and programming, using mostly my Arduino Rev 3 and my Rasberry Pi 4.
+I think programming is a great way to express your creativity and its incredible just how many  things you can truly do
+with it. It truly feels like there is something for every one.
