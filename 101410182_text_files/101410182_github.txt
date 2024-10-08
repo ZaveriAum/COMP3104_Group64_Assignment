@@ -1,0 +1,3 @@
+I have been using Github for 2 and a half years. I started learning it at first because I had heard that it is an absolute must for
+developers, but i never really started using it because i didn't quite understand it until January of this year. Ever since i have used it
+more or less daily, as visible on my profile. I think at this point I type git commands out faster than I can my own name!
