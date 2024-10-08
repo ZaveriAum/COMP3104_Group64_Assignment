@@ -1,0 +1,8 @@
+Installation Steps:
+1. Clone the repository: `git clone https://github.com/YourRepo`.
+2. Switch to your branch: `git checkout STUDENTID-Name`.
+3. Install dependencies: `npm install`.
+4. Run the application: `npm start`.
+Common Issues:
+- If installation fails, check Node.js version compatibility.
+- Ensure environment variables are properly set.
