@@ -1,0 +1,5 @@
+The devOps course is also known as COMP3104. It is a Course that is tought by professor Pritesh Patel
+and it only takes play one day on a Wednesday from 6pm-9pm, including both the lab and the lecture
+in the same day. It is online. So far it has taught us stuff sorrounding as the name says developer
+Operations. Most of the time has so far been spent learning VSC, mainly github and github Pages/Travis
+I like this course!
